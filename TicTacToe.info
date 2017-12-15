@@ -1,0 +1,12 @@
+Name: Parag Zaveri													Class: CSC 214
+Lab: Tic Tac Toe														Levels: 3
+
+Description
+
+Tic Tac Toe game.  Uses a board class and a player class
+to go along with the driver.  Values are stored in a board
+which is a 2 dimensional array.  Two players are created and
+they take turns making moves that the user supplies.  When
+one of the rows, columns, or diagonals all contain the same
+value then a winner is declared.  Uses a method for creating
+players and making moves to suplement main.
